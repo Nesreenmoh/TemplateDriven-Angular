@@ -1,8 +1,8 @@
-# TempalateForm
+# TemplateForm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
-#Template Driven From Example
+# Template Driven Form Example
 
 Form contains two fields, email, password and dropdown control of sunscriptions type.
 Applying `ngModel` and `ngForm` properties in [Angular].
